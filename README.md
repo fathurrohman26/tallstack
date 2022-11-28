@@ -125,7 +125,7 @@ Demo User (email unverified)
 php artisan test
 
 # Filter (Profile)
-php artisan test --filter TestProfile
+php artisan test --filter ProfileTest
 ```
 
 Coverage with [Xdebug](https://xdebug.org/)
