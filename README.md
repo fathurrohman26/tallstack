@@ -140,4 +140,12 @@ xdebug.mode=coverage
 php artisan test --coverage
 ```
 
+Generate code coverage report in HTML format with PHPUnit
+```bash
+./vendor/bin/phpunit --coverage-html coverage-report
+cd coverage-report
+ls
+```
+
+
 > Warn: Running the test will reset the database if the database for the test is not specified.
