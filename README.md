@@ -115,8 +115,8 @@ Demo User (email verified):
 
 Demo User (email unverified)
 
--   EMail : `confirmed@user.test`
--   Passw : `unconfirmed@user.test`
+-   EMail : `unconfirmed@user.test`
+-   Passw : `password`
 
 ### Unit Test
 
